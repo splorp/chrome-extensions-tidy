@@ -1,0 +1,53 @@
+/*
+
+Chrome Extensions Page Tidy
+
+chrome://extensions/
+
+*/
+
+
+.extension-list-item-wrapper {
+	margin: 22px 0 !important;
+	border-bottom: 1px solid #DDD !important;
+	padding-bottom: 18px !important;
+	}
+
+.extension-details {
+	padding-left: 65px !important;
+	padding-right: 35px !important;
+	}
+
+.extension-title {
+	padding: 0 !important;
+	}
+
+.extension-version,
+.extension-description {
+	color: rgb(140, 140, 140) !important;
+	}
+
+.extension-description a {
+	margin: 0 !important;
+	display: block !important;
+	}
+
+.inactive-extension .extension-details,
+.inactive-extension .extension-version,
+.inactive-extension .extension-description {
+	color: rgb(190, 190, 190) !important;
+	}
+
+.inactive-extension .extension-description a {
+	display: none !important;
+	}
+
+.location-text {
+	color: rgb(140, 140, 140) !important;
+	font-size: 70% !important;
+	width: 130px !important;
+	}
+
+.header-extras {
+	width: 130px !important;
+	}
