@@ -13,6 +13,8 @@ Copy the styles to the `Custom.css` file found in one of the following locations
 #### Linux
 `~/.config/google-chrome/Default/User StyleSheets/`
 
+Note that [user stylesheet support was removed in Chrome 33](https://news.ycombinator.com/item?id=7329855). Stupid Google.
+
 ## Before
 
 ![Chrome Extensions Page — Before](images/screenshot-before.png)
